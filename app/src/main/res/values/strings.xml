@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LFSR Generator</string>
+    <string name="shouldBeBinaryFormat">Ciąg powinien składać się z samych 0 i 1!</string>
+    <string name="lastDigitShouldBeOne">Ostatnia wartość powinna być równa 1!</string>
+    <string name="enter_polynomial">Wprowadź wielomian w postaci ciągu 0 i 1\n(kolejne współczynniki ax: a0*x^1 + a1*x^2 + …):</string>
+    <string name="enter_interval">Wprowadź interwał (w milisekundach):</string>
+    <string name="start_generating">rozpocznij generowanie</string>
+    <string name="end_generating">zakończ generowanie</string>
+    <string name="lfsr_generator">Generator LFSR</string>
+    <string name="unknown_error">Wystąpił nieznany błąd!</string>
+</resources>
